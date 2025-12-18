@@ -47,7 +47,7 @@ MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through
 
 ---
 
-## 📊 GitHub by the Numbers
+## 📊 GitHub Activity
 
 <div align="center">
   <img
@@ -61,7 +61,7 @@ MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through
   />
   <br/>
   <img
-    src="https://streak-stats.demolab.com?user=celinejp&theme=radical&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=celinejp&theme=radical&hide_border=false"
     alt="GitHub streak"
   />
 </div>
