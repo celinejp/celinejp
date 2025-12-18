@@ -3,7 +3,7 @@
 MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through real-world projects.
 
 - 🎓 **Currently**: Grad student in Computer Science @ UC Davis  
-- 🧠 **Interests**: AI & ML systems, backend & platform engineering, LLM agents, and human-centered products  
+- 🧠 **Interests**: AI & ML systems, backend/platform engineering, and LLM agents  
 - 🛠️ **I love** turning messy, real-world requirements into scalable AI products
 
 ---
