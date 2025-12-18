@@ -1,23 +1,23 @@
 ## 👋 Hey, I’m Celine
 
-AI Engineer & MS CS @ UC Davis, building **production-grade GenAI systems**, **LLM agents**, and **ML-powered experiences** that ship.
+MS CS student @ UC Davis, exploring **GenAI**, **LLM agents**, and **ML-powered experiences** that feel real and usable.
 
-- 🔭 **Currently**: AI Intern @ Civic · TA for AI & Cognitive Science at UC Davis  
+- 🎓 **Currently**: Grad student in Computer Science @ UC Davis  
 - 🧠 **Interests**: LLM agents, RAG, neuro-inspired interfaces, human-centered AI  
 - 🛠️ **I love** turning messy, real-world requirements into scalable AI products
 
 ---
 
-## 🚀 What I’m Building
+## 🚀 Projects & Experience
 
-- **RAG + Agentic Workflows at Scale**  
-  Production-ready RAG systems with **LangGraph**, **OpenAI**, **Pinecone**, **AWS OpenSearch**, and **Next.js / NestJS** frontends – optimized for **low latency** and **high retrieval accuracy**.
+- **AI Intern @ Civic – RAG + Agentic Workflows at Scale**  
+  Built production-ready RAG systems with **LangGraph**, **OpenAI**, **Pinecone**, **AWS OpenSearch**, and **Next.js / NestJS** frontends – optimized for **low latency** and **high retrieval accuracy**.
 
-- **AI-Powered Microcontroller API Assistant**  
+- **AI-Powered Microcontroller API Assistant (Personal Project)**  
   Fine-tuned LLMs to generate **SDK-compliant embedded code** (UART, SPI, GPIO, I2C) with a **FastAPI + vLLM** backend and a **React + TypeScript** developer UX.
 
-- **BurnBright – AI Wellness Dashboard (HackDavis 2025)**  
-  Predicting student burnout using **Canvas workload data**, **Next.js**, **Flask**, **MongoDB**, and LLaMA-based reasoning for **actionable wellness insights**.
+- **BurnBright – AI Wellness Dashboard (HackDavis 2025, Hackathon Project)**  
+  Designed a dashboard that predicts student burnout using **Canvas workload data**, **Next.js**, **Flask**, **MongoDB**, and LLaMA-based reasoning for **actionable wellness insights**.
 
 ---
 
@@ -51,13 +51,20 @@ AI Engineer & MS CS @ UC Davis, building **production-grade GenAI systems**, **L
 ## 📊 GitHub by the Numbers
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=celinejp&show_icons=true&theme=radical&hide_title=true&rank_icon=percentile)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celinejp&layout=compact&theme=radical&hide_title=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=celinejp&theme=radical&hide_border=false)
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=celinejp&show_icons=true&theme=radical&hide_title=true&rank_icon=percentile"
+    alt="Celine's GitHub stats"
+  />
+  <br/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinejp&layout=compact&theme=radical&hide_title=true"
+    alt="Top languages"
+  />
+  <br/>
+  <img
+    src="https://streak-stats.demolab.com?user=celinejp&theme=radical&hide_border=false"
+    alt="GitHub streak"
+  />
 </div>
 
 ---
