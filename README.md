@@ -51,8 +51,8 @@ MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=celinejp&show_icons=true&theme=radical&hide_title=true&rank_icon=percentile"
-    alt="Celine's GitHub stats"
+    src="https://streak-stats.demolab.com/?user=celinejp&theme=radical&hide_border=false"
+    alt="GitHub streak"
   />
   <br/>
   <img
@@ -61,8 +61,8 @@ MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through
   />
   <br/>
   <img
-    src="https://streak-stats.demolab.com/?user=celinejp&theme=radical&hide_border=false"
-    alt="GitHub streak"
+    src="https://github-readme-stats.vercel.app/api?username=celinejp&show_icons=true&theme=radical&hide_title=true&rank_icon=percentile"
+    alt="Celine's GitHub stats"
   />
 </div>
 
@@ -86,8 +86,8 @@ MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through
 
 ## 🌐 Let’s Connect
 
-- **LinkedIn**: [linkedin.com/in/celinejohnphilip](https://www.linkedin.com/in/celinejohnphilip)  
-- **Email**: [celinejp.03@gmail.com](mailto:celinejp.03@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/celinejohnphilip](https://www.linkedin.com/in/celinejohnphilip)  
+- 📬 **Email**: [celinejp.03@gmail.com](mailto:celinejp.03@gmail.com)
 
 If you’re working on **GenAI, LLM agents, or human-centered AI** and want to collaborate, I’d love to chat 🙂
 
