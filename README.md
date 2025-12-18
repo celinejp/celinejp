@@ -10,8 +10,8 @@ MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through
 
 ## 🚀 Projects
 
-- **AI Intern @ Civic – RAG System**  
-  Designed and shipped production RAG pipelines using **LangGraph**, **OpenAI**, **Pinecone**, and **AWS OpenSearch**, and helped build **Next.js / NestJS** backends and APIs tuned for **low-latency, high-accuracy** answers.
+- **AI Intern @ Civic – RAG Chatbot over Documents**  
+  Built a production **chatbot** that retrieves answers from a **vector database of company documents** using **LangGraph**, **OpenAI**, **Pinecone**, and **AWS OpenSearch**, with **Next.js / NestJS** backends and APIs optimized for fast, relevant responses.
 
 - **AI-Powered Microcontroller API Assistant (Personal Project)**  
   Built an end-to-end **LLM + backend** system with **FastAPI + vLLM** that generates **SDK-compliant embedded code** (UART, SPI, GPIO, I2C), wrapped in a **React + TypeScript** frontend focused on real developer workflows.
