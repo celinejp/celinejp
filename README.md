@@ -86,8 +86,17 @@ MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through
 
 ## 🌐 Let’s Connect
 
-- 💼 **LinkedIn**: [linkedin.com/in/celinejohnphilip](https://www.linkedin.com/in/celinejohnphilip)  
-- 📬 **Email**: [celinejp.03@gmail.com](mailto:celinejp.03@gmail.com)
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/celinejohnphilip">
+    <img src="https://img.shields.io/badge/LinkedIn-Celine%20John%20Philip-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Celine John Philip" />
+  </a>
+  
+  <a href="mailto:celinejp.03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-celinejp.03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email - celinejp.03@gmail.com" />
+  </a>
+
+</div>
 
 If you’re working on **GenAI, LLM agents, or human-centered AI** and want to collaborate, I’d love to chat 🙂
 
