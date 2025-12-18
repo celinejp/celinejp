@@ -1,30 +1,29 @@
 ## 👋 Hey, I’m Celine
 
-MS CS student @ UC Davis, exploring **GenAI**, **LLM agents**, and **ML-powered experiences** that feel real and usable.
+MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through real-world projects.
 
 - 🎓 **Currently**: Grad student in Computer Science @ UC Davis  
-- 🧠 **Interests**: LLM agents, RAG, neuro-inspired interfaces, human-centered AI  
+- 🧠 **Interests**: AI & ML systems, backend & platform engineering, LLM agents, and human-centered products  
 - 🛠️ **I love** turning messy, real-world requirements into scalable AI products
 
 ---
 
-## 🚀 Projects & Experience
+## 🚀 Projects
 
 - **AI Intern @ Civic – RAG + Agentic Workflows at Scale**  
-  Built production-ready RAG systems with **LangGraph**, **OpenAI**, **Pinecone**, **AWS OpenSearch**, and **Next.js / NestJS** frontends – optimized for **low latency** and **high retrieval accuracy**.
+  Designed and shipped production RAG pipelines using **LangGraph**, **OpenAI**, **Pinecone**, and **AWS OpenSearch**, and helped build **Next.js / NestJS** backends and APIs tuned for **low-latency, high-accuracy** answers.
 
 - **AI-Powered Microcontroller API Assistant (Personal Project)**  
-  Fine-tuned LLMs to generate **SDK-compliant embedded code** (UART, SPI, GPIO, I2C) with a **FastAPI + vLLM** backend and a **React + TypeScript** developer UX.
+  Built an end-to-end **LLM + backend** system with **FastAPI + vLLM** that generates **SDK-compliant embedded code** (UART, SPI, GPIO, I2C), wrapped in a **React + TypeScript** frontend focused on real developer workflows.
 
 - **BurnBright – AI Wellness Dashboard (HackDavis 2025, Hackathon Project)**  
-  Designed a dashboard that predicts student burnout using **Canvas workload data**, **Next.js**, **Flask**, **MongoDB**, and LLaMA-based reasoning for **actionable wellness insights**.
+  Engineered a full-stack AI dashboard using **Next.js**, **Flask**, **MongoDB**, and LLaMA-based reasoning to predict student burnout from **Canvas workload data** and surface structured, actionable recommendations.
 
 ---
 
 ## 🧠 Current Focus
 
 - Designing **structured LLM agents** that can safely call tools and APIs  
-- Building **adaptive ML models** for **wrist EMG decoding** (Meta Ethical Neurotechnology collaboration)  
 - Exploring how to make AI systems **explainable, robust, and human-aligned**
 
 ---
