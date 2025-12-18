@@ -71,7 +71,7 @@ MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through
 ## 🧪 Research & Learning
 
 - **Wrist EMG Decoding for HCI** – building robust gesture classification models across **91+ participants** and **32k+ trials**  
-- **Adversarial Robustness in CNNs** – experimenting with **adversarial training** and **gradient masking** on ResNet and VGG-style models  
+- **Published Paper (IEEE, IoT)** – co-authored a peer-reviewed paper on an **IoT-based system** (DOI: [10.1109/CASTHPGCE.2023.10494416](https://doi.org/10.1109/CASTHPGCE.2023.10494416))  
 - Teaching / TA experience in **AI, cognition, and computational models of intelligence**
 
 ---
