@@ -51,33 +51,22 @@ MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through
 
 <p align="center">
 
-  <!-- Streak -->
+  <!-- Streak (already working for you) -->
   <a href="https://github.com/celinejp">
-    <img
-      src="https://github-readme-streak-stats-eight.vercel.app?user=celinejp&theme=radical&hide_border=false"
-      alt="GitHub Streak"
-    />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=celinejp&theme=radical&hide_border=false" alt="GitHub Streak" />
   </a>
 
   <!-- Top languages -->
   <a href="https://github.com/celinejp">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinejp&layout=compact&theme=radical&hide_title=true"
-      alt="Top Languages"
-    />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=celinejp&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
   </a>
 
   <!-- Overall stats -->
   <a href="https://github.com/celinejp">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=celinejp&show_icons=true&theme=radical&hide_title=true&rank_icon=percentile"
-      alt="GitHub Stats"
-    />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=celinejp&show_icons=true&theme=radical&hide_title=true&rank_icon=percentile" alt="GitHub Stats" />
   </a>
 
 </p>
-
-
 
 ---
 
