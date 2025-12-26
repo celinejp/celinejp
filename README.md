@@ -49,15 +49,22 @@ MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
   
-  <img src="https://streak-stats.demolab.com/?user=celinejp&theme=radical&hide_border=false" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinejp&layout=compact&theme=radical&hide_title=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=celinejp&show_icons=true&theme=radical&hide_title=true&rank_icon=percentile" />
-  
-</div>
+  <a href="https://github.com/celinejp">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=celinejp&theme=radical&hide_border=false" />
+  </a>
+
+  <a href="https://github.com/celinejp">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinejp&layout=compact&theme=radical&hide_title=true" />
+  </a>
+
+  <a href="https://github.com/celinejp">
+    <img src="https://github-readme-stats.vercel.app/api?username=celinejp&show_icons=true&theme=radical&hide_title=true&rank_icon=percentile" />
+  </a>
+
+</p>
+
 
 ---
 
