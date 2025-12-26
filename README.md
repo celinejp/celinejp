@@ -8,7 +8,7 @@ MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 - **AI Intern @ Civic – RAG Chatbot over Documents**  
   Built a production **chatbot** that retrieves answers from a **vector database of company documents** using **LangGraph**, **OpenAI**, **Pinecone**, and **AWS OpenSearch**, with **Next.js / NestJS** backends and APIs optimized for fast, relevant responses.
@@ -46,18 +46,6 @@ MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through
 `Git` · `GitHub` · `LaTeX` · `Arduino` · `Wireshark`
 
 ---
-
-## 📊 GitHub Activity
-
-<div align="center">
-  
-  <img src="https://streak-stats.demolab.com/?user=celinejp&theme=radical&hide_border=false" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinejp&layout=compact&theme=radical&hide_title=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=celinejp&show_icons=true&theme=radical&hide_title=true&rank_icon=percentile" />
-  
-</div>
 
 ---
 
