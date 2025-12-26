@@ -8,7 +8,7 @@ MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 - **AI Intern @ Civic – RAG Chatbot over Documents**  
   Built a production **chatbot** that retrieves answers from a **vector database of company documents** using **LangGraph**, **OpenAI**, **Pinecone**, and **AWS OpenSearch**, with **Next.js / NestJS** backends and APIs optimized for fast, relevant responses.
