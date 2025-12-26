@@ -50,20 +50,33 @@ MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through
 ## 📊 GitHub Activity
 
 <p align="center">
-  
+
+  <!-- Streak -->
   <a href="https://github.com/celinejp">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=celinejp&theme=radical&hide_border=false" />
+    <img
+      src="https://github-readme-streak-stats-eight.vercel.app?user=celinejp&theme=radical&hide_border=false"
+      alt="GitHub Streak"
+    />
   </a>
 
+  <!-- Top languages -->
   <a href="https://github.com/celinejp">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinejp&layout=compact&theme=radical&hide_title=true" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=celinejp&layout=compact&theme=radical&hide_title=true"
+      alt="Top Languages"
+    />
   </a>
 
+  <!-- Overall stats -->
   <a href="https://github.com/celinejp">
-    <img src="https://github-readme-stats.vercel.app/api?username=celinejp&show_icons=true&theme=radical&hide_title=true&rank_icon=percentile" />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=celinejp&show_icons=true&theme=radical&hide_title=true&rank_icon=percentile"
+      alt="GitHub Stats"
+    />
   </a>
 
 </p>
+
 
 
 ---
