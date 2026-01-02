@@ -58,7 +58,6 @@ MS CS student @ UC Davis, exploring **AI, ML, and software engineering** through
   </a>
 </p>
 
-
 ---
 
 ## 🧪 Research & Learning
